@@ -1,0 +1,104 @@
+﻿*, *:after, *:before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+   /*-ms-box-sizing: border-box;*/
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin: 0;
+    min-height: 100vh;
+}
+
+.multi_select_box {
+    width: 400px;
+    margin: 80px auto;
+}
+
+    .multi_select_box select {
+        width: 100%;
+    }
+
+    .multi_select_box button {
+        background-color: darkblue;
+        color: #ffffff;
+        padding: 15px 25px;
+    }
+
+.center {
+    text-align: center;
+}
+
+.center-page {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    max-width: 30%;
+    
+}
+
+#title_image {
+    padding-left: 50px;
+}
+
+.table_data {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 2px;
+}
+
+.signUpButton {
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+
+#myTable {
+    padding: 30px;
+}
+
+.regLabels {
+    margin-top: 15px;
+}
+
+.webAppTheme {
+    background-color: #212121 !important;
+}
+
+#BtnSignUp {
+    margin-top: 20px;
+}
+
+.loginTable {
+    width: auto;
+    margin-top: 200px;
+}
+
+#Button1 {
+    margin: auto;
+}
+
+.space-vert {
+    margin-top: 20px;
+}
+
+#main_div {
+    margin-left: 200px;
+}
+
+.social-media-icons {
+    padding-right: 4px;
+}
+
+
+#copyright {
+    font-weight: bold;
+    font-size: larger;
+    color: darkgray;
+}
+
+.divHeight {
+    height: 80vh;
+}
